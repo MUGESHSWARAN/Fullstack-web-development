@@ -1,6 +1,8 @@
-h1{
-    font-size: 2em;
-    color: #333;
+h3{
+    color: green;
+    text-align: center; 
+}
+h2{
+    color: blue;
     text-align: center;
-    margin-top: 20px;
 }

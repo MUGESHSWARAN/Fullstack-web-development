@@ -1,0 +1,38 @@
+
+/*selector comment*/
+/* tag selector */
+h1{
+    color: blueviolet;
+    text-align: center;
+
+}
+
+p{
+    color: plum;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+/* id selector */
+#welcome{
+    color: red;
+    text-align: center;
+}
+/* class selector */
+    .tocss{
+    color: green;
+    }
+/* element.class selector */
+    a.tocss{
+        color:brown;
+    }
+    /* universal selector */
+    *{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+    }   
+/* group selector */
+    h1,h2,a.tocss{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: x-large;
+    }

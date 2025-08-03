@@ -1,0 +1,17 @@
+/* hexadecimal color */
+#welcome{
+    color: #00b283
+}
+/* rgb color */
+h1{
+    color: rgb(191, 118, 40);
+}
+/* hsl color */
+p{
+    color: hsl(79, 39%, 39%);
+}
+/* opacity */
+h3{
+    color: brown;
+    opacity: 79%;
+}

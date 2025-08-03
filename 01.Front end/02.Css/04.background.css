@@ -1,0 +1,15 @@
+
+/*background.css*/
+h1{
+    background-color: lightcoral;
+    text-align: center;
+    color: white;
+}
+/*background images*/
+body{
+    background-image: url(IMAGE/OIP.webp);
+    color:greenyellow;
+    background-attachment: scroll;
+    /*background: url(IMAGE/OIP.webp) no-repeat center center fixed;*/
+
+}

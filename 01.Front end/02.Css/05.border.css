@@ -1,0 +1,15 @@
+h1{
+    border-style: solid ;
+    border-width: 2px 4px;
+    /*border-width: medium thick;*/
+    border-color:teal  lightcoral;
+    border-radius: 5px 15px;
+  
+
+}
+p{
+    border-style: dashed dotted double solid;
+}
+h3{
+     border:solid 2px teal;
+}

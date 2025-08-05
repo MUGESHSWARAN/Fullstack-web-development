@@ -1,0 +1,21 @@
+body{
+    margin: 40px 50px 30px 60px;
+    border:2px dotted;
+    padding: 10px;
+
+    /*margin top right bottom left*/
+}
+h2{
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;    
+    border: 2px solid;
+}
+h1{
+    margin: auto;
+    width: 80%;
+    border: 3px solid red;
+    padding: 20px;
+}
+

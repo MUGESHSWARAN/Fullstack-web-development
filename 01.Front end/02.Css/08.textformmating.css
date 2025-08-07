@@ -1,0 +1,52 @@
+p{
+   color: purple;
+   background-color: lightyellow;
+    text-align: justify;
+    line-height: 30px;
+   text-shadow: 5px 5px 5px red;
+}
+h2{
+    text-align: center;
+    color: green;
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-decoration-style:double ;
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-decoration-thickness: 4px;
+    text-decoration-style:dashed ;
+}
+h3{
+    text-align: right;
+    color: orange;
+    text-decoration: line-through;
+    text-transform: lowercase;
+    text-decoration-color: purple;
+}
+h4{
+    text-align: left;
+    color: brown;
+    text-decoration: none;
+    text-transform: capitalize;
+    text-decoration-line: wavy;
+    text-decoration-style: solid;
+}
+h5{
+    text-align: justify;
+    color: pink;
+    text-decoration: blink;
+    text-transform: uppercase;
+    text-decoration-color: black;
+}
+
+h6{
+    text-align: center;
+    color: gray;
+    text-decoration: underline;
+    text-transform: lowercase;
+    text-decoration-style: dotted;
+}

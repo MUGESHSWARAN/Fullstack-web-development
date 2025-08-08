@@ -1,0 +1,62 @@
+h1{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 3em;/*1em = 16px*/
+    font-variant: small-caps;
+    color: chocolate;
+}
+h2{
+    font-family: serif;
+    font-style:oblique;
+    font-weight: lighter;
+    font-size: 30px;
+    font-variant: all-small-caps;
+    color: darkblue;
+
+}
+h3{
+    font-family: monospace;
+    font-style:initial;
+    font-weight:bolder;
+    font-size: 24px;
+    font-variant: petite-caps;
+    color: darkgreen;
+
+}
+h4{
+
+    font-family: cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    font-variant: small-caps;
+    color: darkred;
+}
+h5{
+
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 18px;
+    font-variant: all-small-caps;
+    color: darkorange;
+}
+h6{
+
+    font-family: system-ui;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 16px;
+    font-variant: petite-caps;
+    color: darkslategray;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    font-variant: small-caps;
+    color: rgb(152, 24, 24);
+    line-height: 1.5;
+}

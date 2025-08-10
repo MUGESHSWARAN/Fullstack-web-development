@@ -1,0 +1,42 @@
+table,td{
+    width: 300px;
+    border: 2px dashed;
+    vertical-align: bottom;
+    padding: 10px;
+    border-collapse: collapse;
+
+    
+}
+thead td{
+    background-color: #f0f0f0;
+    text-align: center;
+}
+tr{
+    height: 10px;
+}
+
+table{
+    width: 300px;
+}
+tr:hover{
+    background-color:greenyellow;
+}
+th{
+    border: 2px solid black;
+}
+tr:nth-child(odd){
+    background-color:lightcoral;
+}
+tr:nth-child(even){
+    background-color:lightblue;
+}
+caption{
+    border: 2px dashed black;
+    padding: 10px;
+}
+table{
+    border: 2px solid black;
+    margin: 20px auto;
+    text-align: center;
+    border-collapse: collapse;
+}

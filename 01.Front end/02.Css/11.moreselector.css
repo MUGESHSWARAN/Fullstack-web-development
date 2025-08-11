@@ -1,0 +1,26 @@
+.container {
+    border: 2px solid black;
+
+}
+.container h1 {
+    color: blue;
+    background-color: lightgray;
+}
+.container .para {
+    color: blueviolet
+    
+}
+#paragraph {
+    color: red;
+    font-size: 20px;
+    background-color: tomato;
+}
+.container span {
+    color: green;
+    font-weight: bold;
+}
+.container p {
+    color: plum;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    opacity: 0.8;
+}

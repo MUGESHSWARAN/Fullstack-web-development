@@ -1,0 +1,18 @@
+.para{
+    position: relative;
+    left: 40px;
+    border: 2px solid black;
+
+}
+.pa{
+    position: absolute;
+    left: 40px;
+    border: 1px dashed;
+
+}
+.paa{
+    position: sticky;
+    top: 0px;
+    border: 2px dotted;
+
+}

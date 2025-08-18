@@ -1,0 +1,23 @@
+/*float*/
+img{
+    float: left;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+/*display inline*/
+.disp{
+    display: inline-block;
+    width: 50%;
+    background-color: rgb(41, 172, 215);
+    padding: 10px;
+
+}
+/*display none*/
+.paa{
+    color: blue;
+    display: none;
+}
